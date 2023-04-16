@@ -1,4 +1,6 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go-PTE@compilerfolder"
+  "templateUrl": "https://github.com/freddydk/AL-Go-PTE@compilerfolder",
+  "useCompilerFolder": false,
+  "doNotPublishApps": false
 }
