@@ -9,5 +9,5 @@
     "continuousDeployment": false
   },
   "useCompilerFolder": false,
-  "doNotPublishApps": false,
+  "doNotPublishApps": false
 }
