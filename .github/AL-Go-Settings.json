@@ -12,5 +12,6 @@
   "doNotPublishApps": false,
   "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
-  "NextMajorSchedule": "0 2 * * 0"
+  "NextMajorSchedule": "0 2 * * 0",
+  "templateSha": "d6e96018d82a3c02ec8c793534827988f08d0dd1"
 }
