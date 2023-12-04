@@ -4,5 +4,8 @@
   "DeployToMy-QA": {
     "EnvironmentName": "QA",
     "continuousDeployment": true
+  },
+  "DeployToPROD": {
+    "continuousDeployment": false
   }
 }
