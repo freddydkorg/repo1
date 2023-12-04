@@ -1,4 +1,8 @@
 {
   "type": "PTE",
-  "templateUrl": "https://github.com/freddydk/AL-Go@ALDoc"
+  "templateUrl": "https://github.com/freddydk/AL-Go@ALDoc",
+  "DeployToMy-QA": {
+    "EnvironmentName": "QA",
+    "continuousDeployment": true
+  }
 }
